@@ -1,0 +1,16 @@
+
+Version 1.4
+June 2017
+	-- Added a search field to the tinyMCE document pop up for better UX when dealing with large document sets.
+	-- Disabled the ability to search the custom field "internal notes" as it was conflicting with the native search leading to a bad UX
+
+___________________________________
+
+Version 1.1
+February 2017
+	-- Adjusted the layout for the category panel of the tinyMCE pop up to allow for a better UX
+	-- Switched the categories on the tinyMCE pop up to be a radio group rather than a series of links
+	-- Added a Insert into post button to better align the UX flow between single documents and document categories
+	-- Updated ACF Dependency files to 5.5.8
+
+___________________________________

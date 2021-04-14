@@ -1,0 +1,250 @@
+/**
+* All of the CSS for your public-facing functionality should be
+* included in this file.
+*/
+
+.vidoc-container {
+	margin-bottom: 20px;
+	border-top: solid 2px #f0f0f0;
+	padding-top: 13px;
+}
+.vidoc-container:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.vidoc-wrap {
+}
+.vidoc-container p.error-message {
+	color: red;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+}
+
+.vidoc-element {
+	position: relative;
+}
+.vidoc-element:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.vidoc-element .vidoc-password-popup {
+    border: solid 2px #ddd;
+    padding: 10px;
+    max-width: 320px;
+    min-width: 230px;
+    position: absolute;
+    top: 0;
+    left: 20px;
+    z-index: 999;
+    background-color: #fff;
+}
+.vidoc-element .vidoc-password-popup .close {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    cursor: pointer;
+}
+.vidoc-element .vidoc-password-popup .warning {
+	color: red;
+
+}
+.vidoc-element .vidoc-password-popup .vidoc-link {
+	padding: 0;
+	margin: 10px 0;
+    float: none;
+    display: inline-block;
+    border-left: none;
+    padding: 2px 11px;
+    background-color: #275f8f;
+    border-radius: 5px;
+    border: solid 2px #204d74;
+}
+.vidoc-element .vidoc-password-popup .vidoc-link a {
+    color: #fff;
+    padding: 0;
+    background: none;
+    font-weight: bold;
+    vertical-align: initial;
+}
+.vidoc-element .vidoc-password-popup h1 {
+	font-size: 20px;
+	line-height: 24px;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 10px;
+}
+.vidoc-element .vidoc-password-popup p {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 19px;
+}
+.vidoc-element .vidoc-password-popup input {
+	padding: 5px;
+	width: 70%;
+}
+.vidoc-element .vidoc-password-popup button {
+    width: 25%;
+    margin: 0;
+    padding: 2px 4px;
+    float: right;
+    background-color: #275f8f;
+    border-radius: 5px;
+    border: solid 2px #204d74;
+    color: #fff;
+}
+
+.vidoc-icon.pdf {
+	background-image:url('../images/pdf.png');
+}
+.vidoc-icon.doc {
+	background-image:url('../images/doc.png');
+}
+.vidoc-icon.xls {
+	background-image:url('../images/xls.png');
+}
+.vidoc-icon.gif {
+	background-image:url('../images/gif.png');
+}
+.vidoc-icon.jpg {
+	background-image:url('../images/jpg.png');
+}
+.vidoc-icon.mov {
+	background-image:url('../images/mov.png');
+}
+.vidoc-icon.mp3 {
+	background-image:url('../images/mp3.png');
+}
+.vidoc-icon.png {
+	background-image:url('../images/png.png');
+}
+.vidoc-icon.wav {
+	background-image:url('../images/wav.png');
+}
+.vidoc-icon.zip {
+	background-image:url('../images/zip.png');
+}
+.vidoc-icon.ppt {
+	background-image:url('../images/ppt.png');
+}
+.vidoc-icon {
+	display: block;
+	float: left;
+	background-image:url('../images/default.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+	width: 51px;
+	min-height: 40px;
+	position: relative;
+	text-indent: -9999px;
+}
+.vidoc-icon a {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+.vidoc-content-wrapper {
+    display: table;
+    vertical-align: top;
+    padding: 0 10px 0 20px;
+}
+
+.vidoc-title {
+
+}
+
+.vidoc-title {
+	padding: 0;
+	margin: 0;
+	line-height: 20px;
+	font-size: 17px;
+}
+.vidoc-title a {
+	color: #333333;
+	font-weight: 600;
+}
+.vidoc-title a:hover {
+	opacity: 0.8;
+}
+
+.vidoc-content {
+
+}
+
+.vidoc-content p {
+	padding: 0;
+	margin: 0;
+	color: #333333;
+	font-size: 17px;
+	line-height: 20px;
+}
+
+.vidoc-link {
+	float: right;
+	min-height: 40px;
+	border-left: solid 2px #cecfd0;
+    padding-left: 20px;
+}
+
+.vidoc-link a {
+	color: #a3a2a2;
+	font-size: 16px;
+	line-height: 20px;
+    padding-right: 28px;
+    vertical-align: middle;
+}
+
+@-moz-keyframes fadeIn {
+	0% {
+	  opacity: 0;
+	}
+
+	100% {
+	  opacity: 1;
+	}
+}
+.vidoc-password-popup.fadein.animate-fade-in {
+	-webkit-animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+	-moz-animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+	-o-animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+	animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+}
+.vidoc-password-popup.fadein {
+	
+}
+
+.vidoc-password-popup .fadein.animate-fade-in {
+	-webkit-animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+	-moz-animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+	-o-animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+	animation: fadeIn 1s 1 cubic-bezier(0.77, 0, 0.175, 1) forwards;
+}
+.vidoc-password-popup .fadein {
+	
+}
+
+@media only screen and (max-width: 500px) {
+	.vidoc-icon,
+	.vidoc-content-wrapper,
+	.vidoc-link {
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+	.vidoc-link {
+		margin: 0 0 10px 0;
+		padding:0;
+		border-left: none;
+	}
+	.vidoc-content-wrapper {
+		padding: 0;
+	}
+}

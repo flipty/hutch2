@@ -1,0 +1,37 @@
+/**
+ * 	Dashicon's for Vivid Image Shortcodes
+ */
+i.mce-ico.mce-i-viButton_button:before {
+    content: "\f138";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font: 400 20px/1 dashicons!important;
+    speak: none;
+    vertical-align: top;
+}
+
+i.mce-ico.mce-i-viAccordion_button:before {
+    content: "\f164";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font: 400 20px/1 dashicons!important;
+    speak: none;
+    vertical-align: top;
+}
+
+i.mce-ico.mce-i-viTabs_button:before {
+    content: "\f509";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font: 400 20px/1 dashicons!important;
+    speak: none;
+    vertical-align: top;
+}
+
+.mce-listbox span {
+    padding-right: 20px;
+}
+

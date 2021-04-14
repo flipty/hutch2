@@ -1,0 +1,89 @@
+/**  Custom Post Type icon Changing Example
+
+#icon-edit.icon32-posts-supplier{
+	background-image: url( ../images/supplier-icon32.png) !important;
+	background-position: 0px 0px !important;
+}
+
+#icon-edit.icon32-posts-product{
+    background-image: url( ../images/product-icon32.png) !important;
+    background-position: 0px 0px !important;
+}
+
+*/
+
+.repeater-item li{
+    display: inline;
+}
+
+.another{
+    float: left;
+}
+
+
+.message{
+    background-color: #ffffe0;
+    border: 1px solid #e6db55;
+    padding: 5px;
+}
+
+#wp-admin-bar-responsive_check * {
+	background: yellow;
+	color: #000;
+	text-shadow: none;
+	padding: 0px 60px !important;
+	
+}
+
+#wp-admin-bar-responsive_check .ab-item:hover {
+	background: red !important;
+	color: #000 !important;
+	
+}
+
+#myplugin_sectionid label{
+	float: left;
+	width: 200px;
+	
+}
+
+/**
+ *  Dashicon's for Vivid Image Shortcodes
+ */
+i.mce-ico.mce-i-viButton_button:before {
+    content: "\f138";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font: 400 20px/1 dashicons!important;
+    speak: none;
+    vertical-align: top;
+}
+
+i.mce-ico.mce-i-viAccordion_button:before {
+    content: "\f164";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font: 400 20px/1 dashicons!important;
+    speak: none;
+    vertical-align: top;
+}
+
+i.mce-ico.mce-i-viTabs_button:before {
+    content: "\f509";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    font: 400 20px/1 dashicons!important;
+    speak: none;
+    vertical-align: top;
+}
+
+.mce-listbox span {
+    padding-right: 20px;
+}
+
+.events-cal #event_cost {
+    display: none;
+}

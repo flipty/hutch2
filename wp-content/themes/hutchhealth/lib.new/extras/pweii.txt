@@ -1,0 +1,51 @@
+Welcome to your Post With Everything In It. Here you will find all of the information you will need to make your pages and posts look good.
+<h4><strong>Basic Paragraph Text</strong></h4>
+<strong></strong>Here is an example of what basic paragraph text looks like. Your content will appear like this on any of your pages and/or posts. Your content can include anything to share with your reader about your company, products or services. Be sure to make it engaging as you want people to continue to explore your website.
+
+With your basic paragraph text you can make words: <strong>bold</strong>, <em>italic</em>, <em><strong>bold and italic</strong></em>, <span style="text-decoration: underline;">underlined</span> or <del>strikethrough</del>.
+<h4><!--more-->Want to make something in your content stick out? Try putting it in a blockquote.</h4>
+<blockquote>This is an example of a blockquote. Put a quote or small phrase you want your viewer to see. It's an easy way to catch your reader's attention.</blockquote>
+<a href="#"><cite>We've made it so your links stick out!</cite></a>
+<h4>Your Colors: Use these colors to keep branding consistency throughout your website and marketing.</h4>
+<a href="http://vimm.nobodycanfindme.com/wp-content/uploads/2013/01/colors.png"><img class="alignnone size-full wp-image-245" title="colors" src="http://vimm.nobodycanfindme.com/wp-content/uploads/2013/01/colors.png" alt="" width="700" height="100" /></a>
+<h4><span style="font-size: 1em;">Divide your content into sections. Using a heading to help give your content hierarchy. Here's what they look like.</span></h4>
+<h1>Level 1 Heading</h1>
+<h2>Level 2 Heading</h2>
+<h3>Level 3 Heading</h3>
+<h4>Level 4 Heading</h4>
+<h5>Level 5 Heading</h5>
+<h6>Level 6 Heading</h6>
+<h4><span style="font-size: 1em;">Have items you want displayed in a list? This is what a bulleted list will look like:</span></h4>
+<ul>
+	<li>Vestibulum in mauris semper tortor interdum ultrices.</li>
+	<li>Sed vel lorem et justo laoreet bibendum. Donec dictum.
+<ul>
+	<li>Vestibulum in mauris semper tortor interdum ultrices.</li>
+	<li>Sed vel lorem et justo laoreet bibendum. Donec dictum.</li>
+</ul>
+</li>
+	<li>Etiam massa libero, lacinia at, commodo in, tincidunt a, purus.</li>
+	<li>Praesent volutpat eros quis enim blandit tincidunt.</li>
+	<li>Aenean eu libero nec lectus ultricies laoreet. Donec rutrum, nisi vel egestas ultrices, ipsum urna sagittis libero, vitae vestibulum dui dolor vel velit.</li>
+</ul>
+<h4>Need a bit more order to your list? Try this:</h4>
+<ol>
+	<li>Vestibulum in mauris semper tortor interdum ultrices.</li>
+	<li>Sed vel lorem et justo laoreet bibendum. Donec dictum.
+<ol>
+	<li>Vestibulum in mauris semper tortor interdum ultrices.</li>
+	<li>Sed vel lorem et justo laoreet bibendum. Donec dictum.</li>
+</ol>
+</li>
+	<li>Etiam massa libero, lacinia at, commodo in, tincidunt a, purus.</li>
+	<li>Praesent volutpat eros quis enim blandit tincidunt.</li>
+	<li>Aenean eu libero nec lectus ultricies laoreet. Donec rutrum, nisi vel egestas ultrices, ipsum urna sagittis libero, vitae vestibulum dui dolor vel velit.</li>
+</ol>
+<h4>Image With A Caption: Support your photo by added a caption to it.</h4>
+[caption id="attachment_98" align="alignnone" width="300" caption="This is a Caption"]<img src="http://www.vimm.com/wp-content/permimages/4.jpg" alt="" width="300" height="199" />[/caption]
+<h5>Accordian</h5>
+[accordion-wrap][accordion title="This is an accordion!"]This is the content to the accordion![/accordion][accordion title="This is an accordion!"]This is the content to the accordion![/accordion][/accordion-wrap]
+<h5>Buttons</h5>
+[button link="http://vimm.com"]Button[/button]
+<h5>Gravity Form<h5>
+[gravityforms id="1" title="false" description="false" tabindex="50" ajax="false"]

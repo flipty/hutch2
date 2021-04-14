@@ -1,0 +1,78 @@
+ul.canonical-list {
+
+}
+
+ul.canonical-list li.rows {
+	display: block;
+}
+
+ul.canonical-list li.rows.hide {
+	display: none;
+}
+
+ul.canonical-list li.rows ul.columns {
+	display: block;
+}
+
+ul.canonical-list li.rows ul.columns li {
+	display: inline-block;
+}
+
+ul.canonical-list li.rows.title ul.columns li {
+	font-weight: bold;
+}
+
+ul.canonical-list li.rows ul.columns li.remove {
+	width: 10%;
+	text-align: center;
+}
+
+ul.canonical-list li.rows ul.columns li.category,
+ul.canonical-list li.rows ul.columns li.url {
+	width: 44%;
+}
+
+ul.redirect-list {
+	clear: both;
+	max-height: 400px;
+	overflow-y: scroll;
+}
+
+ul.redirect-list li.rows {
+	display: block;
+}
+
+ul.redirect-list li.rows.hide {
+	display: none;
+}
+
+ul.redirect-list li.rows ul.columns {
+	display: block;
+}
+
+ul.redirect-list li.rows ul.columns li {
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+ul.redirect-list li.rows.title ul.columns li {
+	font-weight: bold;
+}
+
+ul.redirect-list li.rows ul.columns li.remove {
+	width: 10%;
+	text-align: center;
+}
+
+ul.redirect-list li.rows ul.columns li.oldurl,
+ul.redirect-list li.rows ul.columns li.newurl {
+	width: 44%;
+}
+
+#add_redirect {
+	float: right;
+}
+
+.uploadform {
+	float: left;
+}

@@ -1,0 +1,31 @@
+#grid-overlay {
+	position: absolute;
+	width: 100%;
+	z-index: 99;
+	pointer-events: none;
+}
+
+#grid-overlay .small {
+	width: 960px;
+}
+
+#grid-overlay .large {
+	width: 1140px;
+}
+
+#grid-overlay .twelve,
+#grid-overlay .sixteen {
+	margin: 0 auto;
+}
+
+#grid-overlay .twelve {
+	background: url( './../images/960_grid_12_col.png' ) repeat-y;
+	background-size: 960px 100%;
+	opacity: .5;
+}
+
+#grid-overlay .sixteen {
+	background: url( './../images/960_grid_16_col.png' ) repeat-y;
+	background-size: 960px 100%;
+	opacity: .5;
+}

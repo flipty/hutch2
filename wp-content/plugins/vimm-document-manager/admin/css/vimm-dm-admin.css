@@ -1,0 +1,35 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+i.mce-ico.mce-i-viDocmanager_button {
+	background: url(../images/download.png) center no-repeat;
+	vertical-align: top;
+	width: 25px;
+	height: 21px;
+}
+.acf-field-57ffb07ec1b37 ul li {
+	min-height: 45px;
+}
+.acf-field-57ffb07ec1b37 ul li input:after {
+ 	content: " ";
+    position: absolute;
+    left: 23px;
+	background: url(../images/pdf.png) center no-repeat;
+	vertical-align: top;
+	width: 51px;
+	height: 40px;
+}
+.acf-field-57ffb07ec1b37 ul li input#acf-field_57ffb07ec1b37-doc:after {
+	background: url(../images/doc.png) center no-repeat;
+}
+.acf-field-57ffb07ec1b37 ul li input#acf-field_57ffb07ec1b37-xls:after {
+	background: url(../images/xls.png) center no-repeat;
+}
+.acf-field-57ffb07ec1b37 ul li input#acf-field_57ffb07ec1b37-ppt:after {
+	background: url(../images/ppt.png) center no-repeat;
+}
+.acf-field-57ffb07ec1b37 ul li input#acf-field_57ffb07ec1b37-download:after {
+	background: url(../images/default.png) center no-repeat;
+}

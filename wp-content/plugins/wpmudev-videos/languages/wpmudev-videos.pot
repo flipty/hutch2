@@ -1,0 +1,2098 @@
+# Copyright (C) 2021 WPMU DEV
+# This file is distributed under the same license as the WPMU DEV Videos package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPMU DEV Videos 1.8.5\n"
+"Report-Msgid-Bugs-To: https://wpmudev.org\n"
+"POT-Creation-Date: 2021-01-18 12:20:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: core/controllers/class-compatibility.php:54
+msgid "Access Settings"
+msgstr ""
+
+#: core/controllers/class-compatibility.php:73
+#: core/controllers/class-compatibility.php:109
+#: core/modules/videos/class-controller.php:65
+msgid "WPMUDEV Videos"
+msgstr ""
+
+#: core/controllers/class-contextual.php:142
+#: core/controllers/class-installer.php:125 core/controllers/class-menu.php:240
+#: core/controllers/class-menu.php:245 core/helpers/class-settings.php:202
+#: core/views/class-locale.php:406 core/views/class-locale.php:495
+msgid "Video Tutorials"
+msgstr ""
+
+#: core/controllers/class-menu.php:81 core/controllers/class-menu.php:82
+#: core/helpers/class-data.php:115 core/views/class-admin.php:264
+#: core/views/class-locale.php:125
+msgid "Dashboard"
+msgstr ""
+
+#: core/controllers/class-menu.php:100 core/controllers/class-menu.php:101
+#: core/views/class-locale.php:126 core/views/class-locale.php:207
+#: core/views/class-locale.php:327 core/views/class-locale.php:431
+msgid "Videos"
+msgstr ""
+
+#: core/controllers/class-menu.php:116 core/controllers/class-menu.php:117
+#: core/views/class-locale.php:127 core/views/class-locale.php:304
+#: core/views/class-locale.php:432
+msgid "Playlists"
+msgstr ""
+
+#: core/controllers/class-menu.php:134 core/controllers/class-menu.php:135
+#: core/modules/class-content.php:237 core/views/class-admin.php:343
+#: core/views/class-locale.php:226 core/views/class-locale.php:397
+msgid "Settings"
+msgstr ""
+
+#: core/controllers/class-menu.php:157
+msgid "Video Settings"
+msgstr ""
+
+#: core/endpoints/class-actions.php:65
+msgid "Action name to execute."
+msgstr ""
+
+#: core/endpoints/class-actions.php:108
+msgid "Invalid action. Please try again with a valid action name."
+msgstr ""
+
+#: core/endpoints/class-actions.php:158
+msgid "Membership has been successfully refreshed."
+msgstr ""
+
+#: core/endpoints/class-actions.php:165
+msgid "WPMUDEV Dashboard is not active."
+msgstr ""
+
+#: core/endpoints/class-actions.php:190
+msgid "Plugin settings reset succesfully."
+msgstr ""
+
+#: core/endpoints/class-actions.php:223
+msgid "Plugin data reset succesfully."
+msgstr ""
+
+#: core/endpoints/class-data.php:71
+msgid "Items to import."
+msgstr ""
+
+#: core/endpoints/class-data.php:77
+msgid "Should import thumbnails."
+msgstr ""
+
+#: core/endpoints/class-data.php:116
+msgid "Nothing to import. Please select something."
+msgstr ""
+
+#: core/endpoints/class-data.php:126
+msgid "Invalid file. Please try again with a valid export file."
+msgstr ""
+
+#: core/endpoints/class-data.php:137
+msgid "Invalid file format. Please try again with a valid export file."
+msgstr ""
+
+#: core/endpoints/class-settings.php:64
+msgid "Setting key to get data. If empty, the whole settings will be returned."
+msgstr ""
+
+#: core/endpoints/class-settings.php:75
+msgid "Value(s) to update."
+msgstr ""
+
+#: core/endpoints/class-settings.php:90
+msgid "Setting key to update. If empty, the whole settings will be updated."
+msgstr ""
+
+#: core/helpers/class-data.php:69
+msgid "YouTube"
+msgstr ""
+
+#: core/helpers/class-data.php:75
+msgid "Vimeo"
+msgstr ""
+
+#: core/helpers/class-data.php:81
+msgid "Wistia"
+msgstr ""
+
+#: core/helpers/class-data.php:116
+msgid "Add Post"
+msgstr ""
+
+#: core/helpers/class-data.php:117
+msgid "Edit Post"
+msgstr ""
+
+#: core/helpers/class-data.php:118
+msgid "Add Page"
+msgstr ""
+
+#: core/helpers/class-data.php:119
+msgid "Edit Page"
+msgstr ""
+
+#: core/helpers/class-data.php:120
+msgid "Gutenberg Editor"
+msgstr ""
+
+#: core/helpers/class-data.php:121
+msgid "Widgets"
+msgstr ""
+
+#: core/helpers/class-data.php:122
+msgid "Menus"
+msgstr ""
+
+#: core/helpers/class-data.php:123
+msgid "Themes"
+msgstr ""
+
+#: core/helpers/class-data.php:124
+msgid "Tags"
+msgstr ""
+
+#: core/helpers/class-data.php:125 core/modules/class-content.php:208
+msgid "Categories"
+msgstr ""
+
+#: core/helpers/class-data.php:126 core/modules/class-content.php:139
+msgid "Media Library"
+msgstr ""
+
+#: core/helpers/class-data.php:127
+msgid "Upload Media"
+msgstr ""
+
+#: core/helpers/class-data.php:128
+msgid "Comments"
+msgstr ""
+
+#: core/helpers/class-data.php:129
+msgid "Users"
+msgstr ""
+
+#: core/helpers/class-data.php:130
+msgid "Add User"
+msgstr ""
+
+#: core/helpers/class-data.php:131
+msgid "Profile"
+msgstr ""
+
+#: core/helpers/class-data.php:132
+msgid "Edit User"
+msgstr ""
+
+#: core/helpers/class-data.php:133 core/modules/class-content.php:236
+msgid "Tools"
+msgstr ""
+
+#: core/helpers/class-data.php:134 core/views/class-locale.php:402
+#: core/views/class-locale.php:417 core/views/class-locale.php:447
+msgid "Import"
+msgstr ""
+
+#: core/helpers/class-data.php:135 core/views/class-locale.php:418
+#: core/views/class-locale.php:446
+msgid "Export"
+msgstr ""
+
+#: core/helpers/class-data.php:136
+msgid "General Settings"
+msgstr ""
+
+#: core/helpers/class-data.php:137
+msgid "Writing Settings"
+msgstr ""
+
+#: core/helpers/class-data.php:138
+msgid "Reading Settings"
+msgstr ""
+
+#: core/helpers/class-data.php:139
+msgid "Discussion Settings"
+msgstr ""
+
+#: core/helpers/class-data.php:140
+msgid "Media Settings"
+msgstr ""
+
+#: core/helpers/class-data.php:141
+msgid "Permalink Settings"
+msgstr ""
+
+#: core/helpers/class-data.php:142
+msgid "WordPress Updates"
+msgstr ""
+
+#: core/helpers/class-data.php:143
+msgid "Add Plugins"
+msgstr ""
+
+#: core/helpers/class-data.php:144
+msgid "Add Themes"
+msgstr ""
+
+#: core/helpers/class-general.php:316
+msgid "User"
+msgstr ""
+
+#: core/modules/class-content.php:109 core/modules/class-content.php:211
+msgid "The Dashboard"
+msgstr ""
+
+#: core/modules/class-content.php:111
+msgid "Learn how to navigate, configure and customize the WordPress dashboard."
+msgstr ""
+
+#: core/modules/class-content.php:114
+msgid "Posts"
+msgstr ""
+
+#: core/modules/class-content.php:116
+msgid ""
+"Learn how to create and manage posts, from Add New to archives and "
+"everything in between."
+msgstr ""
+
+#: core/modules/class-content.php:119
+msgid "Pages"
+msgstr ""
+
+#: core/modules/class-content.php:121
+msgid ""
+"Learn how to create and manage pages, from Add New to archives and "
+"everything in between."
+msgstr ""
+
+#: core/modules/class-content.php:124
+msgid "The Gutenberg Editor"
+msgstr ""
+
+#: core/modules/class-content.php:126
+msgid ""
+"Learn how to use the WordPress Gutenberg editor to design high-quality "
+"pages and posts."
+msgstr ""
+
+#: core/modules/class-content.php:129
+msgid "The Classic Editor"
+msgstr ""
+
+#: core/modules/class-content.php:131
+msgid "Learn how to use the classic editor to design high-quality pages and posts."
+msgstr ""
+
+#: core/modules/class-content.php:134
+msgid "Working With Images"
+msgstr ""
+
+#: core/modules/class-content.php:136
+msgid ""
+"Learn how to work with images in WordPress, including multiple ways to "
+"upload and add images to pages or posts, creating image galleries and "
+"addressing common image-related issues."
+msgstr ""
+
+#: core/modules/class-content.php:141
+msgid ""
+"Learn how to add, remove, configure, customize, secure and manage all the "
+"media uploaded to your site or network of sites."
+msgstr ""
+
+#: core/modules/class-content.php:144
+msgid "Appearance"
+msgstr ""
+
+#: core/modules/class-content.php:146
+msgid ""
+"Learn how to configure and customize a site's design, including working "
+"with themes, widgets and menus."
+msgstr ""
+
+#: core/modules/class-content.php:149
+msgid "Organizing Content"
+msgstr ""
+
+#: core/modules/class-content.php:151
+msgid "Learn how to use tags and categories to organize site content."
+msgstr ""
+
+#: core/modules/class-content.php:154 core/modules/class-content.php:210
+msgid "Managing Comments"
+msgstr ""
+
+#: core/modules/class-content.php:156
+msgid ""
+"Learn how to organize user comments, including creating and moderating "
+"comments, addressing spam and archiving old comments."
+msgstr ""
+
+#: core/modules/class-content.php:159
+msgid "Users, Tools, and Settings"
+msgstr ""
+
+#: core/modules/class-content.php:178
+msgid ""
+"Learn how to, among other things, manage users, configure admin settings, "
+"back up a site or restore a site from backup."
+msgstr ""
+
+#: core/modules/class-content.php:198
+msgid "Heading Styles"
+msgstr ""
+
+#: core/modules/class-content.php:199
+msgid "Adding Images From Media Library"
+msgstr ""
+
+#: core/modules/class-content.php:200
+msgid "Uploading Images"
+msgstr ""
+
+#: core/modules/class-content.php:201
+msgid "Add Image From URL"
+msgstr ""
+
+#: core/modules/class-content.php:202
+msgid "Image Galleries"
+msgstr ""
+
+#: core/modules/class-content.php:203
+msgid "Adding Media"
+msgstr ""
+
+#: core/modules/class-content.php:204
+msgid "Adding New Pages"
+msgstr ""
+
+#: core/modules/class-content.php:205
+msgid "Adding New Posts"
+msgstr ""
+
+#: core/modules/class-content.php:206
+msgid "Using Paragraphs"
+msgstr ""
+
+#: core/modules/class-content.php:207
+msgid "The Admin Bar"
+msgstr ""
+
+#: core/modules/class-content.php:209
+msgid "Changing Your Password"
+msgstr ""
+
+#: core/modules/class-content.php:212
+msgid "Deleting Images"
+msgstr ""
+
+#: core/modules/class-content.php:213
+msgid "Editing Images"
+msgstr ""
+
+#: core/modules/class-content.php:214
+msgid "Editing Text"
+msgstr ""
+
+#: core/modules/class-content.php:215
+msgid "Post Excerpts"
+msgstr ""
+
+#: core/modules/class-content.php:216
+msgid "Set Featured Image"
+msgstr ""
+
+#: core/modules/class-content.php:217
+msgid "Hyperlinks"
+msgstr ""
+
+#: core/modules/class-content.php:218
+msgid "The Image Editor"
+msgstr ""
+
+#: core/modules/class-content.php:219
+msgid "Lists"
+msgstr ""
+
+#: core/modules/class-content.php:220
+msgid "The Media Library"
+msgstr ""
+
+#: core/modules/class-content.php:221
+msgid "Embed Videos"
+msgstr ""
+
+#: core/modules/class-content.php:222
+msgid "Quick Draft"
+msgstr ""
+
+#: core/modules/class-content.php:223
+msgid "Replace an Image"
+msgstr ""
+
+#: core/modules/class-content.php:224
+msgid "Restoring Pages"
+msgstr ""
+
+#: core/modules/class-content.php:225
+msgid "Restoring Posts"
+msgstr ""
+
+#: core/modules/class-content.php:226
+msgid "Revisions"
+msgstr ""
+
+#: core/modules/class-content.php:227
+msgid "Pages vs. Posts"
+msgstr ""
+
+#: core/modules/class-content.php:228
+msgid "Using Tags"
+msgstr ""
+
+#: core/modules/class-content.php:229
+msgid "The Toolbar"
+msgstr ""
+
+#: core/modules/class-content.php:230
+msgid "Using Trash"
+msgstr ""
+
+#: core/modules/class-content.php:231
+msgid "Managing Widgets"
+msgstr ""
+
+#: core/modules/class-content.php:232
+msgid "Navigation Menus"
+msgstr ""
+
+#: core/modules/class-content.php:233
+msgid "Change Theme"
+msgstr ""
+
+#: core/modules/class-content.php:234
+msgid "The Customizer"
+msgstr ""
+
+#: core/modules/class-content.php:235
+msgid "Create and Edit Users"
+msgstr ""
+
+#: core/modules/class-content.php:238
+msgid "Creating Playlists"
+msgstr ""
+
+#: core/modules/class-content.php:239
+msgid "Editor Overview"
+msgstr ""
+
+#: core/modules/class-content.php:240
+msgid "Reusable Blocks"
+msgstr ""
+
+#: core/modules/class-content.php:241
+msgid "Adding New Pages (Gutenberg)"
+msgstr ""
+
+#: core/modules/class-content.php:242
+msgid "Adding New Posts (Gutenberg)"
+msgstr ""
+
+#: core/modules/class-content.php:243
+msgid "Running Updates"
+msgstr ""
+
+#: core/modules/class-content.php:244
+msgid "Install a Theme"
+msgstr ""
+
+#: core/modules/class-content.php:245
+msgid "Install and Configure a Plugin"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:61
+#: core/modules/playlists/class-controller.php:62
+#: core/modules/playlists/class-controller.php:69
+msgid "Playlist"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:63
+msgid "Search Playlist"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:64
+msgid "All Playlist"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:65
+#: core/views/class-locale.php:320
+msgid "Edit Playlist"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:66
+msgid "Update Playlist"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:67
+msgid "Add New Playlist"
+msgstr ""
+
+#: core/modules/playlists/class-controller.php:68
+msgid "New Playlist Name"
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:70
+msgid "Text to search playlist. Only titles will be searched."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:75
+msgid "No. of playlists required."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:80
+#: core/modules/videos/class-endpoints.php:81
+msgid "Current page number (required only if count is set)."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:85
+msgid "Should skip permission check and get all playlists."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:97
+#: core/modules/playlists/class-endpoints.php:175
+msgid "Playlist title."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:103
+#: core/modules/playlists/class-endpoints.php:249
+msgid "Video IDs to add to the playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:112
+#: core/modules/playlists/class-endpoints.php:192
+msgid "Locations where these playlist videos are available in contextual help."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:121
+#: core/modules/playlists/class-endpoints.php:200
+msgid "User roles who can access this playlist and it's videos"
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:129
+#: core/modules/playlists/class-endpoints.php:180
+msgid "Playlist description."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:134
+#: core/modules/playlists/class-endpoints.php:208
+msgid "Playlist thumbnail ID."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:158
+msgid "Playlist ID to get details."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:170
+msgid "Playlist ID to update."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:184
+msgid ""
+"Video IDs of the playlist (Be careful, you need to provide all playlists "
+"here. Otherwise existing videos will be removed)."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:224
+msgid "Playlist ID to delete."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:244
+#: core/modules/playlists/class-endpoints.php:264
+msgid "Playlist ID."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:269
+msgid "Video IDs to remove from the playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:306
+msgid "Bulk action to perform with playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:311
+msgid "Video IDs to bulk process."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:319
+msgid "Playlist IDs to bulk process."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:342
+msgid "Playlist ID to reorder."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:347
+msgid "Previous order of the playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:352
+msgid "New order of the playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:457
+#: core/views/class-locale.php:361
+msgid "Could not create the playlist. Please try again."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:552
+msgid "Could not update the playlist. Please try again."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:594
+msgid "Playlist has been deleted."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:599
+msgid "Could not delete the playlist. Please try again."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:629
+msgid "Could not process the bulk action. Please try again."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:706
+msgid "Videos has been linked to the playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:713
+msgid "Could not link the videos to playlist. Please try again."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:752
+msgid "Videos has been unlinked from the playlist."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:759
+msgid "Could not unlink the videos from playlist. Please try again."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:807
+#. translators: %d: Invalid video ID.
+msgid "Invalid video ID: %d"
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:841
+#. translators: %d: Invalid locations.
+msgid "Invalid locations: %s"
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:869
+msgid "Playlist name already in use. Please try another name."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:950
+msgid "Playlist and videos has been deleted."
+msgstr ""
+
+#: core/modules/playlists/class-endpoints.php:959
+msgid "Could not delete the playlists and videos. Please try again."
+msgstr ""
+
+#: core/modules/playlists/models/class-playlist.php:157
+msgid "Playlist ID is invalid. Please try again with a valid ID."
+msgstr ""
+
+#: core/modules/videos/class-controller.php:66
+msgid "WPMUDEV Video"
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:66
+msgid "Text to search videos. Only titles will be searched."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:71
+msgid "Video type to get. By default all types will be included."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:76
+msgid "No. of videos required."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:86
+msgid "Fields to return (ids or object)."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:102
+#: core/modules/videos/class-endpoints.php:195
+msgid "Video title."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:110
+#: core/modules/videos/class-endpoints.php:203
+#: core/modules/videos/class-endpoints.php:356
+msgid "Video host type. Only supported hosts will be allowed."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:116
+#: core/modules/videos/class-endpoints.php:209
+#: core/modules/videos/class-endpoints.php:347
+msgid "Video URL. Only oEmbed supported URLs should be used."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:126
+#: core/modules/videos/class-endpoints.php:219
+msgid "Video playlist ID. Should be a valid term ID."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:134
+#: core/modules/videos/class-endpoints.php:227
+#: core/modules/videos/class-endpoints.php:303
+#: core/modules/videos/class-endpoints.php:377
+msgid "Video custom thumbnail ID. Should be a valid attachment ID."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:143
+#: core/modules/videos/class-endpoints.php:236
+#: core/modules/videos/class-endpoints.php:312
+#: core/modules/videos/class-endpoints.php:386
+msgid "Video start time enabled."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:148
+#: core/modules/videos/class-endpoints.php:241
+#: core/modules/videos/class-endpoints.php:317
+#: core/modules/videos/class-endpoints.php:391
+msgid "Video end time enabled."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:153
+#: core/modules/videos/class-endpoints.php:246
+#: core/modules/videos/class-endpoints.php:322
+#: core/modules/videos/class-endpoints.php:396
+msgid "Video start time."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:158
+#: core/modules/videos/class-endpoints.php:251
+#: core/modules/videos/class-endpoints.php:327
+#: core/modules/videos/class-endpoints.php:401
+msgid "Video end time."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:178
+msgid "Video ID to get details."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:190
+msgid "Video ID to update."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:263
+msgid "Video ID to delete."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:283
+msgid "Video ID to get embed."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:288
+#: core/modules/videos/class-endpoints.php:362
+msgid "The embed width."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:293
+#: core/modules/videos/class-endpoints.php:367
+msgid "The embed height."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:298
+#: core/modules/videos/class-endpoints.php:372
+msgid "Should autoplay the embed video."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:534
+msgid "Could not create the video. Please try again."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:647
+msgid "Could not update the video. Please try again."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:685
+msgid "Default videos can not be deleted."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:697
+msgid "Video has been deleted."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:702
+msgid "Could not delete the video. Please try again."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:813
+msgid "Couldn't find the embed for the given video."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:869
+msgid "Invalid host. Please try again with valid URL and host."
+msgstr ""
+
+#: core/modules/videos/class-endpoints.php:882
+msgid "There was an error processing the video URL. Please try again."
+msgstr ""
+
+#: core/modules/videos/models/class-custom-video.php:119
+msgid "Trying to use custom video object on a non-custom video."
+msgstr ""
+
+#: core/modules/videos/models/class-custom-video.php:306
+msgid ""
+"The URL you have attached is invalid. Try again by copying the URL from "
+"your browser and placing below."
+msgstr ""
+
+#: core/modules/videos/models/class-video.php:148
+msgid "Video ID is invalid. Please try again with a valid ID."
+msgstr ""
+
+#: core/views/class-admin.php:193
+#. translators: %s: heart icon
+msgid "Made with %s by WPMU DEV"
+msgstr ""
+
+#: core/views/class-admin.php:265
+msgid "Top Level"
+msgstr ""
+
+#: core/views/class-admin.php:273
+msgid "Support System Plugin"
+msgstr ""
+
+#: core/views/class-admin.php:344
+msgid "Documentation"
+msgstr ""
+
+#: core/views/class-admin.php:344 core/views/class-locale.php:62
+msgid "Docs"
+msgstr ""
+
+#: core/views/class-admin.php:353
+msgid "Renew Your Membership"
+msgstr ""
+
+#: core/views/class-admin.php:353 core/views/class-locale.php:91
+#: core/views/class-locale.php:156
+msgid "Renew Membership"
+msgstr ""
+
+#: core/views/class-admin.php:356
+msgid "Upgrade to Beehive Pro"
+msgstr ""
+
+#: core/views/class-admin.php:356
+msgid "Upgrade"
+msgstr ""
+
+#: core/views/class-admin.php:383
+msgid "View Details"
+msgstr ""
+
+#: core/views/class-admin.php:387
+msgid "Get Premium Support"
+msgstr ""
+
+#: core/views/class-admin.php:387
+msgid "Premium Support"
+msgstr ""
+
+#: core/views/class-admin.php:388
+msgid "View our Public Roadmap"
+msgstr ""
+
+#: core/views/class-admin.php:388 core/views/class-locale.php:60
+msgid "Roadmap"
+msgstr ""
+
+#: core/views/class-locale.php:40
+msgid "Close this dialog."
+msgstr ""
+
+#: core/views/class-locale.php:41
+msgid "Go back to previous slide."
+msgstr ""
+
+#: core/views/class-locale.php:42
+msgid "Continue"
+msgstr ""
+
+#: core/views/class-locale.php:43 core/views/class-locale.php:84
+msgid "Cancel"
+msgstr ""
+
+#: core/views/class-locale.php:46
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/views/class-locale.php:47 core/views/class-locale.php:268
+msgid "Shortcode has been copied successfully."
+msgstr ""
+
+#: core/views/class-locale.php:48
+msgid ""
+"WPMU DEV Videos are locked. To continue displaying WPMU DEV's white label "
+"tutorial videos to your customers, renew your membership today."
+msgstr ""
+
+#: core/views/class-locale.php:49
+msgid ""
+"WPMU DEV Videos are locked due to your current membership status. You can "
+"unlock WPMU DEV white-labeled video tutorials by activating a full "
+"membership. Click the button below for more information on the WPMU DEV "
+"pricing structure."
+msgstr ""
+
+#: core/views/class-locale.php:50
+msgid ""
+"WPMU DEV videos are locked and you only have access to custom videos in "
+"Video Tutorials page. Install and log into the plugin to start setting up "
+"your video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:51
+msgid ""
+"WPMU DEV videos are locked and you only have access to custom videos in "
+"Video Tutorials page. Activate and log into the plugin to start setting up "
+"your video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:52
+msgid ""
+"WPMU DEV videos are locked and you only have access to custom videos in "
+"Video Tutorials page. Log into the plugin to begin setting up your video "
+"tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:55
+msgid "View Documentation"
+msgstr ""
+
+#: core/views/class-locale.php:58
+msgid "The Hub"
+msgstr ""
+
+#: core/views/class-locale.php:59
+msgid "Plugins"
+msgstr ""
+
+#: core/views/class-locale.php:61
+msgid "Support"
+msgstr ""
+
+#: core/views/class-locale.php:63
+msgid "Community"
+msgstr ""
+
+#: core/views/class-locale.php:64
+msgid "Academy"
+msgstr ""
+
+#: core/views/class-locale.php:65
+msgid "Terms of Service"
+msgstr ""
+
+#: core/views/class-locale.php:66
+msgid "Privacy Policy"
+msgstr ""
+
+#: core/views/class-locale.php:67
+msgid "Facebook"
+msgstr ""
+
+#: core/views/class-locale.php:68
+msgid "Twitter"
+msgstr ""
+
+#: core/views/class-locale.php:69
+msgid "Instagram"
+msgstr ""
+
+#: core/views/class-locale.php:72
+msgid "Dismiss"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPMU DEV Videos"
+msgstr ""
+
+#: core/views/class-locale.php:74 core/views/class-locale.php:159
+#: core/views/class-locale.php:228 core/views/class-locale.php:238
+msgid "Add Custom Video"
+msgstr ""
+
+#: core/views/class-locale.php:75
+msgid "Upload thumbnail"
+msgstr ""
+
+#: core/views/class-locale.php:76
+msgid "Select item"
+msgstr ""
+
+#: core/views/class-locale.php:77 core/views/class-locale.php:445
+msgid "Remove file"
+msgstr ""
+
+#: core/views/class-locale.php:78 core/views/class-locale.php:415
+msgid "Administrator"
+msgstr ""
+
+#: core/views/class-locale.php:79
+msgid "Super Admin"
+msgstr ""
+
+#: core/views/class-locale.php:80
+msgid "Go to top"
+msgstr ""
+
+#: core/views/class-locale.php:83
+msgid "Clear"
+msgstr ""
+
+#: core/views/class-locale.php:85
+msgid "Upload image"
+msgstr ""
+
+#: core/views/class-locale.php:86
+msgid "Set as thumbnail"
+msgstr ""
+
+#: core/views/class-locale.php:87 core/views/class-locale.php:242
+msgid "Delete"
+msgstr ""
+
+#: core/views/class-locale.php:88 core/views/class-locale.php:243
+msgid "Deleting"
+msgstr ""
+
+#: core/views/class-locale.php:89
+msgid "Edit"
+msgstr ""
+
+#: core/views/class-locale.php:90
+msgid "Apply"
+msgstr ""
+
+#: core/views/class-locale.php:92 core/views/class-locale.php:157
+msgid "Get Full Membership"
+msgstr ""
+
+#: core/views/class-locale.php:93 core/views/class-locale.php:153
+msgid "Install Plugin"
+msgstr ""
+
+#: core/views/class-locale.php:94 core/views/class-locale.php:154
+msgid "Login"
+msgstr ""
+
+#: core/views/class-locale.php:95 core/views/class-locale.php:155
+msgid "Activate Plugin"
+msgstr ""
+
+#: core/views/class-locale.php:96 core/views/class-locale.php:440
+msgid "Save Changes"
+msgstr ""
+
+#: core/views/class-locale.php:97 core/views/class-locale.php:239
+#: core/views/class-locale.php:441
+msgid "Saving Changes"
+msgstr ""
+
+#: core/views/class-locale.php:98 core/views/class-locale.php:425
+msgid "Remove"
+msgstr ""
+
+#: core/views/class-locale.php:99
+msgid "Add"
+msgstr ""
+
+#: core/views/class-locale.php:100
+msgid "Added"
+msgstr ""
+
+#: core/views/class-locale.php:101
+msgid "Close video"
+msgstr ""
+
+#: core/views/class-locale.php:102
+msgid "Click to open"
+msgstr ""
+
+#: core/views/class-locale.php:103
+msgid "Processing"
+msgstr ""
+
+#: core/views/class-locale.php:104
+msgid "Close this region"
+msgstr ""
+
+#: core/views/class-locale.php:105
+msgid "Search"
+msgstr ""
+
+#: core/views/class-locale.php:106
+msgid "Searching"
+msgstr ""
+
+#: core/views/class-locale.php:107
+msgid "Clear search"
+msgstr ""
+
+#: core/views/class-locale.php:108
+msgid "Back"
+msgstr ""
+
+#: core/views/class-locale.php:128 core/views/class-locale.php:134
+msgid "Login to WPMU DEV Dashboard"
+msgstr ""
+
+#: core/views/class-locale.php:129 core/views/class-locale.php:133
+msgid "Install WPMU DEV Dashboard"
+msgstr ""
+
+#: core/views/class-locale.php:130
+msgid "New! Playlist Reordering"
+msgstr ""
+
+#: core/views/class-locale.php:135
+msgid "Activate WPMU DEV Dashboard"
+msgstr ""
+
+#: core/views/class-locale.php:136
+msgid "Membership Expired"
+msgstr ""
+
+#: core/views/class-locale.php:137
+msgid "Get Integrated Video Tutorial Access"
+msgstr ""
+
+#: core/views/class-locale.php:138 core/views/class-locale.php:214
+#: core/views/class-locale.php:312 core/views/class-locale.php:409
+msgid "Never"
+msgstr ""
+
+#: core/views/class-locale.php:139
+msgid "Total videos"
+msgstr ""
+
+#: core/views/class-locale.php:140
+msgid "Last uploaded video"
+msgstr ""
+
+#: core/views/class-locale.php:141 core/views/class-locale.php:211
+msgid "Recently updated video"
+msgstr ""
+
+#: core/views/class-locale.php:142
+msgid "Recently added videos"
+msgstr ""
+
+#: core/views/class-locale.php:143
+msgid "Recently added playlists"
+msgstr ""
+
+#: core/views/class-locale.php:144
+msgid "Recently created custom video"
+msgstr ""
+
+#: core/views/class-locale.php:145 core/views/class-locale.php:310
+msgid "Recently created playlist"
+msgstr ""
+
+#: core/views/class-locale.php:146
+msgid "Actions"
+msgstr ""
+
+#: core/views/class-locale.php:147
+msgid "Video options menu"
+msgstr ""
+
+#: core/views/class-locale.php:148
+msgid "Playlist options menu"
+msgstr ""
+
+#: core/views/class-locale.php:149
+msgid "Create Video Playlists"
+msgstr ""
+
+#: core/views/class-locale.php:150
+msgid "Control Visibility"
+msgstr ""
+
+#: core/views/class-locale.php:158
+msgid "View All"
+msgstr ""
+
+#: core/views/class-locale.php:160 core/views/class-locale.php:237
+#: core/views/class-locale.php:335
+msgid "Add Playlist"
+msgstr ""
+
+#: core/views/class-locale.php:161
+msgid "Refresh Status"
+msgstr ""
+
+#: core/views/class-locale.php:162
+msgid "Refreshing Status"
+msgstr ""
+
+#: core/views/class-locale.php:163 core/views/class-locale.php:240
+msgid "Edit title"
+msgstr ""
+
+#: core/views/class-locale.php:164 core/views/class-locale.php:218
+#: core/views/class-locale.php:241
+msgid "Edit video"
+msgstr ""
+
+#: core/views/class-locale.php:165 core/views/class-locale.php:244
+msgid "Copy Shortcode"
+msgstr ""
+
+#: core/views/class-locale.php:166 core/views/class-locale.php:245
+msgid "Add to Playlist"
+msgstr ""
+
+#: core/views/class-locale.php:167 core/views/class-locale.php:306
+#: core/views/class-locale.php:340
+msgid "Visibility settings"
+msgstr ""
+
+#: core/views/class-locale.php:168 core/views/class-locale.php:307
+#: core/views/class-locale.php:339
+msgid "Add videos"
+msgstr ""
+
+#: core/views/class-locale.php:169
+msgid "Got it"
+msgstr ""
+
+#: core/views/class-locale.php:174
+#. translators: %s: Name of the current user.
+msgid ""
+"%s, welcome to Integrated Video Tutorials - the best tutorials plugin for "
+"WordPress. It looks like you don't have the WPMU DEV Dashboard plugin "
+"installed, which you'll need to access the videos API. Install and log into "
+"the plugin to start setting up your video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:176
+#. translators: %s: Name of the current user.
+msgid ""
+"%s, welcome to Integrated Video Tutorials - the best tutorials plugin for "
+"WordPress. It looks like you haven't logged into the WPMU DEV Dashboard "
+"plugin, which you'll need to do to access the videos API. Log into the "
+"plugin to begin setting up your video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:178
+#. translators: %s: Name of the current user.
+msgid ""
+"Great, %s! The WPMU DEV Dashboard plugin is installed, but not activated "
+"yet. You'll need to activate it to access our videos API and set up your "
+"video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:180
+#. translators: %s: Name of the current user.
+msgid ""
+"%s, welcome to Integrated Video Tutorials - the best video tutorials plugin "
+"for WordPress. It looks like your WPMU DEV subscription has expired. To "
+"continue displaying WPMU DEV's white label tutorial videos to your users, "
+"renew your membership today."
+msgstr ""
+
+#: core/views/class-locale.php:182
+#. translators: %s: Name of the current user.
+msgid ""
+"Hey %s, it looks like you don't have access to the WPMU DEV white-labeled "
+"video tutorials due to your current membership status. You can gain access "
+"by activating a full membership. Click the button below for more "
+"information on the WPMU DEV pricing structure."
+msgstr ""
+
+#: core/views/class-locale.php:183
+msgid ""
+"You don't have the WPMU DEV Dashboard plugin, which you'll need to access "
+"the videos API. WPMU DEV videos are locked, and you only have access to "
+"custom videos on the Video Tutorials page. Install and log in to the "
+"dashboard to unlock the complete library of WPMU DEV video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:184
+msgid ""
+"You haven't logged into the WPMU DEV Dashboard plugin installed, which "
+"you'll need to access the videos API. WPMU DEV videos are locked, and you "
+"only have access to custom videos on the Video Tutorials page. Log into the "
+"WPMU DEV dashboard to unlock the complete library of WPMU DEV video "
+"tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:185
+msgid ""
+"The WPMU DEV Dashboard plugin is installed but not activated. Activate the "
+"plugin to unlock the complete library of WPMU DEV video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:186
+msgid ""
+"View all default video tutorials and upload your own custom videos in the "
+"Videos area."
+msgstr ""
+
+#: core/views/class-locale.php:187
+msgid ""
+"Create playlists of videos and display them around your WordPress Admin "
+"area to help your clients get to know WordPress."
+msgstr ""
+
+#: core/views/class-locale.php:188
+msgid ""
+"You can now reorder playlists using a simple drag-and-drop feature. If you "
+"have ever been tired of always scrolling down to the bottom of the page to "
+"find your favorite videos, this new feature will save you a lot of time and "
+"energy."
+msgstr ""
+
+#: core/views/class-locale.php:189
+msgid ""
+"You can now add videos to custom groups and then display those groups in "
+"different places around your website. This allows you to display specific "
+"video tutorials to your clients where they need it most."
+msgstr ""
+
+#: core/views/class-locale.php:190
+msgid ""
+"We've given you greater control over where your videos appear, but also who "
+"can see them too. Specify different sets of videos to display to different "
+"user roles – a complete custom set up tailored to your needs!"
+msgstr ""
+
+#: core/views/class-locale.php:208 core/views/class-locale.php:305
+msgid "Available Videos"
+msgstr ""
+
+#: core/views/class-locale.php:212
+msgid "Recent video host"
+msgstr ""
+
+#: core/views/class-locale.php:213
+msgid "Recent custom video"
+msgstr ""
+
+#: core/views/class-locale.php:215 core/views/class-locale.php:313
+msgid "Video title"
+msgstr ""
+
+#: core/views/class-locale.php:216
+msgid "Duration"
+msgstr ""
+
+#: core/views/class-locale.php:217
+msgid "Delete video"
+msgstr ""
+
+#: core/views/class-locale.php:219
+msgid "Video actions"
+msgstr ""
+
+#: core/views/class-locale.php:220
+msgid "Add to playlist"
+msgstr ""
+
+#: core/views/class-locale.php:221
+msgid "Video URL"
+msgstr ""
+
+#: core/views/class-locale.php:223
+#. translators: %s: Duration of the video.
+msgid "Duration %s"
+msgstr ""
+
+#: core/views/class-locale.php:224
+msgid "End at:"
+msgstr ""
+
+#: core/views/class-locale.php:225
+msgid "Start at:"
+msgstr ""
+
+#: core/views/class-locale.php:227
+msgid "Thumbnail image"
+msgstr ""
+
+#: core/views/class-locale.php:229
+msgid "Choose playlist"
+msgstr ""
+
+#: core/views/class-locale.php:230 core/views/class-locale.php:326
+#: core/views/class-locale.php:498
+msgid "Search videos"
+msgstr ""
+
+#: core/views/class-locale.php:231
+msgid "Empty results"
+msgstr ""
+
+#: core/views/class-locale.php:232 core/views/class-locale.php:331
+msgid "Loading..."
+msgstr ""
+
+#: core/views/class-locale.php:233
+msgid "Unknown"
+msgstr ""
+
+#: core/views/class-locale.php:236
+msgid "Watch Videos"
+msgstr ""
+
+#: core/views/class-locale.php:246
+msgid "Updating playlist"
+msgstr ""
+
+#: core/views/class-locale.php:247 core/views/class-locale.php:342
+msgid "Add Video"
+msgstr ""
+
+#: core/views/class-locale.php:248
+msgid "Adding"
+msgstr ""
+
+#: core/views/class-locale.php:249
+msgid "Publish"
+msgstr ""
+
+#: core/views/class-locale.php:250
+msgid "Publishing"
+msgstr ""
+
+#: core/views/class-locale.php:253
+msgid "Add, edit and view video tutorials all in one handy place."
+msgstr ""
+
+#: core/views/class-locale.php:254
+msgid "Change the title of the video below."
+msgstr ""
+
+#: core/views/class-locale.php:256
+#. translators: %s: Title of the video.
+msgid ""
+"Choose which playlists you want to add the \"%s\" video to. It will be "
+"available for people to watch if they can access the playlist."
+msgstr ""
+
+#: core/views/class-locale.php:257
+msgid "Are you sure you want to permanently delete this custom video?"
+msgstr ""
+
+#: core/views/class-locale.php:258
+msgid "Customize the duration of the video."
+msgstr ""
+
+#: core/views/class-locale.php:259
+msgid "Add a custom thumbnail to your video."
+msgstr ""
+
+#: core/views/class-locale.php:260
+msgid ""
+"Link to custom videos you've found, or uploaded on another video host. "
+"Choose from the available hosts below."
+msgstr ""
+
+#: core/views/class-locale.php:261
+msgid "Copy and paste the video URL from your browser into the input field below."
+msgstr ""
+
+#: core/views/class-locale.php:262
+msgid "To finish adding this video, assign it to a playlist."
+msgstr ""
+
+#: core/views/class-locale.php:264
+#. translators: %s: Search term.
+msgid ""
+"We couldn't find any videos matching your search <strong>“%s”</strong>. "
+"Please try again"
+msgstr ""
+
+#: core/views/class-locale.php:265
+msgid "Below are configurations and data found in the selected file"
+msgstr ""
+
+#: core/views/class-locale.php:270
+#. translators: %s: Title of the video.
+msgid "Playlists of \"%s\" was successfully updated."
+msgstr ""
+
+#: core/views/class-locale.php:272
+#. translators: %s: Title of the video.
+msgid "Video title is changed to “%s”."
+msgstr ""
+
+#: core/views/class-locale.php:273
+msgid "Sorry. Could not update the video title."
+msgstr ""
+
+#: core/views/class-locale.php:274
+msgid ""
+"The URL you have attached is invalid. Try again by copying the URL from "
+"your browser and pasting it into the input field below."
+msgstr ""
+
+#: core/views/class-locale.php:275
+msgid "There was an error publishing the video. Please try again."
+msgstr ""
+
+#: core/views/class-locale.php:277
+#. translators: %s: Title of the video.
+msgid "“%s” updated successfully."
+msgstr ""
+
+#: core/views/class-locale.php:279
+#. translators: %s: Title of the video.
+msgid "Updating “%s” failed."
+msgstr ""
+
+#: core/views/class-locale.php:281
+#. translators: %s: Title of the video.
+msgid ""
+"Custom video added successfully. You can <a href=\"%s\">view the video</a> "
+"on the Video Tutorials page."
+msgstr ""
+
+#: core/views/class-locale.php:282
+msgid ""
+"Custom video added successfully. Assign it to a playlist so the video "
+"becomes available on the Video Tutorials page."
+msgstr ""
+
+#: core/views/class-locale.php:283
+msgid "Video deleted successfully."
+msgstr ""
+
+#: core/views/class-locale.php:285 core/views/class-locale.php:502
+#. translators: %s: No. of videos found in search.
+#. translators: %s: No. of vidoes found in search.
+msgid "We found %s videos for your search."
+msgstr ""
+
+#: core/views/class-locale.php:286 core/views/class-locale.php:503
+msgid "Search cleared successfully."
+msgstr ""
+
+#: core/views/class-locale.php:287
+msgid ""
+"Note: We recommend adding your custom video to an existing playlist so it's "
+"available on the Video Tutorials page."
+msgstr ""
+
+#: core/views/class-locale.php:311
+msgid "Recently updated playlist"
+msgstr ""
+
+#: core/views/class-locale.php:314
+msgid "Date added"
+msgstr ""
+
+#: core/views/class-locale.php:315
+msgid "Bulk actions"
+msgstr ""
+
+#: core/views/class-locale.php:316
+msgid "Delete playlist"
+msgstr ""
+
+#: core/views/class-locale.php:317 core/views/class-locale.php:399
+msgid "Permissions"
+msgstr ""
+
+#: core/views/class-locale.php:318
+msgid "Location"
+msgstr ""
+
+#: core/views/class-locale.php:319
+msgid "Choose WP Admin pages"
+msgstr ""
+
+#: core/views/class-locale.php:321
+msgid "Playlist name"
+msgstr ""
+
+#: core/views/class-locale.php:322
+msgid "Playlist description"
+msgstr ""
+
+#: core/views/class-locale.php:323
+msgid "Playlist thumbnail image"
+msgstr ""
+
+#: core/views/class-locale.php:324
+msgid "E.g. New playlist"
+msgstr ""
+
+#: core/views/class-locale.php:325
+msgid "Create a new playlist"
+msgstr ""
+
+#: core/views/class-locale.php:329
+#. translators: %s: Count of videos.
+msgid "%s videos selected"
+msgstr ""
+
+#: core/views/class-locale.php:330
+msgid "Row actions"
+msgstr ""
+
+#: core/views/class-locale.php:332
+msgid "Remove video from playlist"
+msgstr ""
+
+#: core/views/class-locale.php:336
+msgid "Create Playlist"
+msgstr ""
+
+#: core/views/class-locale.php:337
+msgid "Creating Playlist"
+msgstr ""
+
+#: core/views/class-locale.php:338
+msgid "Open playlist actions"
+msgstr ""
+
+#: core/views/class-locale.php:341
+msgid "Copy shortcode"
+msgstr ""
+
+#: core/views/class-locale.php:343
+msgid "Adding Videos"
+msgstr ""
+
+#: core/views/class-locale.php:347
+#. translators: %s: Count of videos.
+msgid ""
+"This playlist contains %d video(s). These videos will be unassigned from "
+"this playlist. Are you sure you want to delete this playlist?"
+msgstr ""
+
+#: core/views/class-locale.php:348
+msgid ""
+"Playlists are groups of similar videos you can embed around WordPress for "
+"your clients to watch when needed. Add your first playlist by clicking the "
+"button below."
+msgstr ""
+
+#: core/views/class-locale.php:349
+msgid ""
+"Control which user roles are able to see this playlist, in addition to "
+"where it will be displayed as an available WordPress widget"
+msgstr ""
+
+#: core/views/class-locale.php:350
+msgid "Choose which user roles will be able to view this playlist."
+msgstr ""
+
+#: core/views/class-locale.php:351
+msgid ""
+"Choose which default locations will show this video playlist to the user "
+"roles selected above."
+msgstr ""
+
+#: core/views/class-locale.php:352
+msgid "Give a title to your playlist."
+msgstr ""
+
+#: core/views/class-locale.php:353
+msgid "You can add description to your playlist."
+msgstr ""
+
+#: core/views/class-locale.php:354
+msgid ""
+"Add a custom thumbnail to your playlist, otherwise we'll just use the first "
+"video's thumbnail."
+msgstr ""
+
+#: core/views/class-locale.php:355
+msgid ""
+"Choose a title, description and custom thumbnail for your playlist and then "
+"start adding videos to it."
+msgstr ""
+
+#: core/views/class-locale.php:356
+msgid ""
+"Choose which videos you want to assign to this playlist. You can add as "
+"many as you like."
+msgstr ""
+
+#: core/views/class-locale.php:357
+msgid "No videos assigned."
+msgstr ""
+
+#: core/views/class-locale.php:360
+msgid "Playlist created successfully."
+msgstr ""
+
+#: core/views/class-locale.php:363
+#. translators: %s: Playlist title.
+msgid "Playlist “%s” updated successfully."
+msgstr ""
+
+#: core/views/class-locale.php:365
+#. translators: %s: Playlist title.
+msgid "Updating playlist “%s” failed.."
+msgstr ""
+
+#: core/views/class-locale.php:366
+msgid "Playlist deleted successfully."
+msgstr ""
+
+#: core/views/class-locale.php:367
+msgid "Playlist settings updated successfully."
+msgstr ""
+
+#: core/views/class-locale.php:368
+msgid "Playlist settings update failed."
+msgstr ""
+
+#: core/views/class-locale.php:370
+#. translators: %s: Link to the videos page.
+msgid ""
+"You don't have any custom videos available to add to this playlist. To "
+"unlock WPMU DEV tutorial videos you'll need to renew your membership. Note: "
+"You can still <a href=\"%s\">create and add custom videos</a> to this "
+"playlist."
+msgstr ""
+
+#: core/views/class-locale.php:371
+msgid ""
+"You don't have any custom videos available to add to this playlist. You can "
+"unlock WPMU DEV white-labeled video tutorials by activating a full "
+"membership. Click the button below for more information on the WPMU DEV "
+"pricing structure."
+msgstr ""
+
+#: core/views/class-locale.php:372
+msgid ""
+"WPMU DEV videos are locked, and you only have access to custom videos "
+"because the WPMU DEV Dashboard plugin is not installed. Install and log "
+"into the WPMU DEV dashboard plugin to unlock the complete library of WPMU "
+"DEV video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:373
+msgid ""
+"WPMU DEV videos are locked, and you only have access to custom videos "
+"because you haven't logged into the WPMU DEV Dashboard plugin. Log into the "
+"WPMU DEV dashboard plugin to unlock the complete library of WPMU DEV video "
+"tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:374
+msgid ""
+"WPMU DEV videos are locked, and you only have access to custom videos "
+"because the WPMU DEV Dashboard plugin is not active. Activate the WPMU DEV "
+"dashboard plugin to unlock the complete library of WPMU DEV video tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:375
+msgid "Playlist videos updated successfully."
+msgstr ""
+
+#: core/views/class-locale.php:377
+#. translators: %s: Link to the videos page.
+msgid ""
+"<strong>Note:</strong> You can still <a href=\"%s\">create and add custom "
+"videos</a> to this playlist."
+msgstr ""
+
+#: core/views/class-locale.php:378
+msgid "Could not update the playlist videos. Please try again."
+msgstr ""
+
+#: core/views/class-locale.php:380
+#. translators: %s: Link to the settings page.
+msgid ""
+"To configure locations for this playlist, please enable the <a "
+"href=\"%s\">Add Videos to Contextual Help</a> feature on the Settings page."
+msgstr ""
+
+#: core/views/class-locale.php:398
+msgid "Display Settings"
+msgstr ""
+
+#: core/views/class-locale.php:400
+msgid "Import / Export"
+msgstr ""
+
+#: core/views/class-locale.php:401 core/views/class-locale.php:419
+msgid "Data"
+msgstr ""
+
+#: core/views/class-locale.php:403
+msgid "Reset Plugin"
+msgstr ""
+
+#: core/views/class-locale.php:407
+msgid "Tutorials Tab"
+msgstr ""
+
+#: core/views/class-locale.php:408
+msgid "Most viewed playlist"
+msgstr ""
+
+#: core/views/class-locale.php:410
+msgid "Add Videos to Contextual Help"
+msgstr ""
+
+#: core/views/class-locale.php:411
+msgid "Help Videos"
+msgstr ""
+
+#: core/views/class-locale.php:412
+msgid "Choose the location of the videos page in the admin menu."
+msgstr ""
+
+#: core/views/class-locale.php:413
+msgid "User Permissions"
+msgstr ""
+
+#: core/views/class-locale.php:414
+msgid "User Roles"
+msgstr ""
+
+#: core/views/class-locale.php:416
+msgid "Network Administrator"
+msgstr ""
+
+#: core/views/class-locale.php:420
+msgid "Uninstallation"
+msgstr ""
+
+#: core/views/class-locale.php:421
+msgid "Reset Settings"
+msgstr ""
+
+#: core/views/class-locale.php:422
+msgid "Preserve"
+msgstr ""
+
+#: core/views/class-locale.php:423 core/views/class-locale.php:442
+msgid "Reset"
+msgstr ""
+
+#: core/views/class-locale.php:424
+msgid "Keep"
+msgstr ""
+
+#: core/views/class-locale.php:426
+msgid "Import Configurations"
+msgstr ""
+
+#: core/views/class-locale.php:427
+msgid "Export Configurations"
+msgstr ""
+
+#: core/views/class-locale.php:428 core/views/class-locale.php:436
+msgid "Choose export options"
+msgstr ""
+
+#: core/views/class-locale.php:429
+msgid "Export thumbnails"
+msgstr ""
+
+#: core/views/class-locale.php:430
+msgid "Include video and playlist thumbnails in export."
+msgstr ""
+
+#: core/views/class-locale.php:433
+msgid "All"
+msgstr ""
+
+#: core/views/class-locale.php:434
+msgid "Import thumbnails"
+msgstr ""
+
+#: core/views/class-locale.php:435
+msgid "Importing in progress..."
+msgstr ""
+
+#: core/views/class-locale.php:437
+msgid "Include video and playlist thumbnails"
+msgstr ""
+
+#: core/views/class-locale.php:443
+msgid "Resetting"
+msgstr ""
+
+#: core/views/class-locale.php:444
+msgid "Upload file"
+msgstr ""
+
+#: core/views/class-locale.php:448
+msgid "Importing"
+msgstr ""
+
+#: core/views/class-locale.php:449
+msgid "Exporting"
+msgstr ""
+
+#: core/views/class-locale.php:450
+msgid "Continue in background"
+msgstr ""
+
+#: core/views/class-locale.php:453
+msgid "Changes were saved successfully."
+msgstr ""
+
+#: core/views/class-locale.php:454
+msgid "Sorry. Could not save the changes. Please try again."
+msgstr ""
+
+#: core/views/class-locale.php:455
+msgid "Settings successfully imported and configured."
+msgstr ""
+
+#: core/views/class-locale.php:456
+msgid ""
+"Note: The selected configurations and data above will replace your current "
+"settings and data."
+msgstr ""
+
+#: core/views/class-locale.php:459
+msgid ""
+"Customize the default \"Video Tutorials\" tab title and position in the "
+"WordPress Admin menu."
+msgstr ""
+
+#: core/views/class-locale.php:460
+msgid "Show the tutorials tab in the WP Admin sidebar"
+msgstr ""
+
+#: core/views/class-locale.php:461
+msgid ""
+"This will add the appropriate video tutorials to the help dropdowns on "
+"WordPress admin screens."
+msgstr ""
+
+#: core/views/class-locale.php:462
+msgid "Configure which user roles can access and configure plugin’s settings."
+msgstr ""
+
+#: core/views/class-locale.php:463
+msgid ""
+"Choose which user roles can have access and configure Integrated Video "
+"Tutorials."
+msgstr ""
+
+#: core/views/class-locale.php:464
+msgid ""
+"Use this tool to import the Integrated Video Tutorial configurations and "
+"data from another site."
+msgstr ""
+
+#: core/views/class-locale.php:465
+msgid "Use this tool to export the IVT configurations and data to another site."
+msgstr ""
+
+#: core/views/class-locale.php:466
+msgid ""
+"Control what to do with your settings and data. Data includes Videos, "
+"Playlists, and other pieces of information stored over time."
+msgstr ""
+
+#: core/views/class-locale.php:467
+msgid ""
+"When you uninstall this plugin, what do you want to do with your settings "
+"and stored data?"
+msgstr ""
+
+#: core/views/class-locale.php:468
+msgid ""
+"Needing to start fresh? Use this button to roll back to the default "
+"settings."
+msgstr ""
+
+#: core/views/class-locale.php:469
+msgid "Choose whether to save your settings for next time, or reset them."
+msgstr ""
+
+#: core/views/class-locale.php:470
+msgid "Choose whether to keep or remove Videos and Playlists data."
+msgstr ""
+
+#: core/views/class-locale.php:471
+msgid ""
+"Note: This will instantly revert all settings to their default states but "
+"will leave your data intact."
+msgstr ""
+
+#: core/views/class-locale.php:472
+msgid "Import an Integrated Video Tutorial configuration and data file."
+msgstr ""
+
+#: core/views/class-locale.php:473
+msgid "Choose a JSON (.json) file to import the configurations."
+msgstr ""
+
+#: core/views/class-locale.php:474 core/views/class-locale.php:478
+msgid "Select configurations or data to export or check All to export all settings."
+msgstr ""
+
+#: core/views/class-locale.php:475
+msgid ""
+"To continue, select the configuration data to import below and click the "
+"import button to begin."
+msgstr ""
+
+#: core/views/class-locale.php:476
+msgid ""
+"Your import is in progress. Downloading thumbnails might take a bit longer "
+"depending on the file sizes and volume. Feel free to close this modal as "
+"your import will continue running in the background."
+msgstr ""
+
+#: core/views/class-locale.php:477
+msgid "Are you sure you want to reset the plugin to its default state?"
+msgstr ""
+
+#: core/views/class-locale.php:506
+msgid ""
+"Use these in-depth video tutorials to master all aspects of the WordPress "
+"platform."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://premium.wpmudev.org/project/unbranded-video-tutorials/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple way to integrate WPMU DEV's over 40 unbranded support videos into "
+"your websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPMU DEV"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://premium.wpmudev.org/"
+msgstr ""
